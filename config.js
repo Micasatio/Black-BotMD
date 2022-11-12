@@ -1,9 +1,13 @@
 //============= Datos del Bot =============//
 
-global.owner = ['5219996125657']
-global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '𝕊𝕚𝕞𝕡𝕝𝕖𝔹𝕠𝕥'
-global.wm = '𝕊𝕚𝕞𝕡𝕝𝕖𝔹𝕠𝕥'
+global.owner = [
+  ['595983186566', '👑 Black - Creador 👑', true],
+  ['524531106422', '👑 Black - Creador 2 👑', true],
+   ['12514941266', '👑 Black - Bot oficial 1 👑', true],
+   ['15595272586', '👑 Black - Bot oficial 2 👑', true],
+global.packname = 'El mejor Bot'
+global.author = 'Black_Bot'
+global.wm = 'Blqck_Bot'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
 //============= urlButtons =============//
